@@ -5,4 +5,19 @@ h1 {
     font-weight: 700;
     text-align: center
   }
-  
+  .quote.bold {
+    font-size: 24px;
+  }
+  #title {
+    font-size: 36px;
+    color: rgba(189, 209, 78, 0.747);
+  }
+  .quote {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: rgb(170, 103, 190);
+  }
+  #body {
+    font-weight: 700;
+    background-color: rgba(25, 61, 37, 0.596);
+    font-size: 24px;
+  }
